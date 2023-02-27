@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently a student of [PKU](www.pku.edu.cn).
-- 🌱 I’m currently working on my Graduation Project.
+- 🔭 ~~I’m currently a student of [PKU](www.pku.edu.cn).~~
+- 🌱 ~~I’m currently working on my Graduation Project.~~
 - 📫 How to reach me: liucunzhan@pku.edu.cn
 - 😄 My blog: [blog.rookiehacker.org](http://blog.rookiehacker.org)
